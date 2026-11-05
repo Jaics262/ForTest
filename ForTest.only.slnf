@@ -1,0 +1,10 @@
+{
+    "solution":{
+        "path": "ForTest.slnx",
+        "projects":[
+            "ClassLibrary1.Test\\ClassLibrary1.Test.csProj",
+            "ClassLibrary2.Test\\ClassLibrary2.Test.csProj",
+
+        ]
+    }
+}

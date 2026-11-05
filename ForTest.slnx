@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassLibrary1.Test/ClassLibrary1.Test.csProj" />
+  <Project Path="ClassLibrary1/ClassLibrary1.csproj" />
+  <Project Path="ClassLibrary2.Test/ClassLibrary2.Test.csproj" />
+  <Project Path="ClassLibrary2/ClassLibrary2.csproj" />
+</Solution>
